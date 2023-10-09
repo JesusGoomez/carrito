@@ -277,8 +277,6 @@ function ListProducts({ route, navigation }) {
         ListFooterComponent={ListFooterComponent}
         ListFooterComponentStyle={{ marginLeft: "auto", marginRight: 30 }}
       />
-
-      <Text> oooo</Text>
     </View>
   );
 }
