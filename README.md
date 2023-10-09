@@ -48,17 +48,17 @@ Escanee el código qr con expo, que aparecerá en la terminal
 ## Capturas de pantalla
 
 Pantallas de inicio
-![Captura 1](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo1.jpeg){width=150 height=80}
-![Captura 2](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo2.jpeg){width=150 height=80}
+![Captura 1](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo1.jpeg)
+![Captura 2](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo2.jpeg)
 
 Módulo de admin
-![Captura 3](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo3.jpeg){width=150 height=80}
-![Captura 4](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo4.jpeg){width=150 height=80}
+![Captura 3](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo3.jpeg)
+![Captura 4](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo4.jpeg)
 
 Módulo de cliente
-![Captura 5](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo5.jpeg){width=150 height=80}
-![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo6.jpeg){width=150 height=80}
-![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo7.jpeg){width=150 height=80}
+![Captura 5](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo5.jpeg)
+![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo6.jpeg)
+![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo7.jpeg)
 
 
 
