@@ -3,20 +3,20 @@ Funciones de la app
 
 1. Carrito de Compras
 
-  -> Agrega productos a tu carrito de compras.
-  -> Visualiza y gestiona los productos en tu carrito.
-  -> Actualiza las cantidades de los productos o elimínalos según tus necesidades.
-  -> Simula un proceso de compra fluido y seguro.
+  - Agrega productos a tu carrito de compras.
+  - Visualiza y gestiona los productos en tu carrito.
+  - Actualiza las cantidades de los productos o elimínalos según tus necesidades.
+  - Simula un proceso de compra fluido y seguro.
 
 2. Módulo de Favoritos
-  -> Marca tus productos favoritos para acceder rápidamente a ellos.
+  - Marca tus productos favoritos para acceder rápidamente a ellos.
 
 3. Módulo de Administrador
--> Accede a un panel de administrador con funciones avanzadas.
--> Agrega, edita o elimina productos de la tienda.
--> CREDENCIALES DE ACCESO
-  usuario:   imperiojesus89@gmail.com
-  password:  jesus1qa
+  - Accede a un panel de administrador con funciones avanzadas.
+  - Agrega, edita o elimina productos de la tienda.
+  - CREDENCIALES DE ACCESO
+   - usuario:   imperiojesus89@gmail.com
+   - password:  jesus1qa
 
 
 
@@ -48,20 +48,20 @@ Escanee el código qr con expo, que aparecerá en la terminal
 ## Capturas de pantalla
 
 Pantallas de inicio
-![Captura 1](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo1.jpeg)
-![Captura 2](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo2.jpeg)
+![Captura 1](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo1.jpeg){width=150 height=80}
+![Captura 2](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo2.jpeg){width=150 height=80}
 
 Módulo de admin
-![Captura 3](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo3.jpeg)
-![Captura 4](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo4.jpeg)
+![Captura 3](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo3.jpeg){width=150 height=80}
+![Captura 4](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo4.jpeg){width=150 height=80}
 
 Módulo de cliente
-![Captura 5](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo5.jpeg)
-![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo6.jpeg)
-![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo7.jpeg)
+![Captura 5](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo5.jpeg){width=150 height=80}
+![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo6.jpeg){width=150 height=80}
+![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo7.jpeg){width=150 height=80}
 
 
 
 ## Credenciales de acceso admin
-  usuario:   imperiojesus89@gmail.com
-  password:  jesus1qa
+  - usuario:   imperiojesus89@gmail.com
+  - password:  jesus1qa
