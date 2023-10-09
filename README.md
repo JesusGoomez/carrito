@@ -51,16 +51,18 @@ Pantallas de inicio
 ![Captura 1](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo1.jpeg)
 ![Captura 2](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo2.jpeg)
 
+<br> <br>
+
 Módulo de admin
 ![Captura 3](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo3.jpeg)
 ![Captura 4](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo4.jpeg)
+
+<br> <br>
 
 Módulo de cliente
 ![Captura 5](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo5.jpeg)
 ![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo6.jpeg)
 ![Captura 6](https://raw.githubusercontent.com/JesusGoomez/carrito/main/img/capturas/photo7.jpeg)
-
-
 
 ## Credenciales de acceso admin
   - usuario:   imperiojesus89@gmail.com
